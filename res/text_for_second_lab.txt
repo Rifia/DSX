@@ -1,0 +1,4 @@
+Their data typrs are infetred from their adsignment statement, which males Python a dynamically typed language.
+This means that digferent data types can be assigned to the same bariable throughout the code.
+A list in python is what other programming languages coll an array.
+They use Zero-based indecing, and the items can contsin any type of data. List items are nesyed in [].

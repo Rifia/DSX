@@ -1,0 +1,1 @@
+types inferred assignment makes different variable Python call indexing contain nested
